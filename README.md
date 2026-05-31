@@ -8,7 +8,7 @@ This project detects whether a news article is real or fake using Machine Learni
 ## Dataset
 - Fake.csv
 - True.csv
-- Source: Kaggle Fake and Real News Dataset
+- Source: Kaggle Fake and Real News Dataset https://www.kaggle.com/datasets/clmentbisaillon/fake-and-real-news-dataset?
 
 ## Technologies Used
 - Python
